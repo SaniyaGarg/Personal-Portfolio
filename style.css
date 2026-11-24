@@ -488,3 +488,12 @@ footer {
         flex-direction: column;
     }
 }
+.my-photo-img {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: 180px !important;
+    height: 180px !important;
+    object-fit: cover;
+    border-radius: 50%;
+}
